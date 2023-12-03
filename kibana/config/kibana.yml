@@ -92,3 +92,5 @@ xpack.fleet.agentPolicies:
                 value: 0.0.0.0:8200
               - name: url
                 value: http://apm-server:8200
+
+i18n.locale: "ja-JP"
